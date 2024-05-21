@@ -1,0 +1,154 @@
+	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	Kingdom	Phylum	Class	Order	Family	Genus	Species
+zOTU_1176	3.823527699	0.126761309	1.957119369	0.064769329	0.948357662	0.948357662	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Acetanaerobacterium	Acetanaerobacterium_elongatum
+zOTU_28	1340.557037	13.60579275	1.962922394	6.931396162	4.16707273645689e-12	7.50073092562241e-11	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia_wexlerae
+zOTU_38	159.9822528	4.855943597	1.441554797	3.368545966	0.000755658	0.00158161	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiracea_incertae_sedis	Eubacterium_eligens
+zOTU_3541	4.357476797	5.235123743	2.521464168	2.076223731	0.037873263	0.056809895	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides_johnsonii
+zOTU_73	528.1210295	11.37972479	1.793750338	6.344096249	2.23735E-10	1.81269E-09	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Pseudobutyrivibrio	Pseudobutyrivibrio_ruminis
+zOTU_920	1.735249008	4.974490824	3.59881361	1.382258534	0.166892333	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus_parainfluenzae
+zOTU_195	82.1696143	0.463361595	1.231425435	0.376280676	0.706708244	0.766310144	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_dorei
+zOTU_211	71.2898134	10.3349945	2.123247367	4.867541417	1.12995E-06	3.63199E-06	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter_sanguinis
+zOTU_6805	0	NA	NA	NA	NA	NA	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_pseudolongum_subsp._pseudolongum
+zOTU_3414	3.325893932	5.913104562	2.974903332	1.987662758	0.046849	0.069121476	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Unclassified_Bifidobacteriaceae	Unclassified_Bifidobacteriaceae
+zOTU_3871	57.83983175	6.775688322	1.5508094	4.36913029	1.24742E-05	3.20766E-05	Bacteria	Actinobacteria	Actinobacteria	Unclassified_Actinobacteria	Unclassified_Actinobacteria	Unclassified_Actinobacteria	Unclassified_Actinobacteria
+zOTU_79	58.7092581	10.05488737	2.133816923	4.712160288	2.45104E-06	6.89356E-06	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium_XlVa	Unclassified _Clostridium_XlVa
+zOTU_263	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	Parasutterella_excrementihominis
+zOTU_505	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_timonensis
+zOTU_3251	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae_1	Unclassified_Peptococcaceae_1	Unclassified_Peptococcaceae_1
+zOTU_17	619.5430652	-1.49160324	1.312384925	-1.13655926	0.255722579	0.305884199	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	Akkermansia_muciniphila
+zOTU_1	145.0062126	6.238930324	1.513758904	4.121482165	3.76443E-05	9.41107E-05	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_faecalis
+zOTU_3407	1.164631427	-3.874324068	4.048173544	-0.957054836	0.338539578	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	Anaerotruncus_colihominis
+zOTU_32	1035.832882	5.555993099	1.395864651	3.980323661	6.88215E-05	0.000167404	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella_aerofaciens
+zOTU_108	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pantoea	Unclassified _Pantoea
+zOTU_44	89.3653239	10.6610127	2.113230642	5.044888373	4.53786E-07	1.63363E-06	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_lactis_subsp._cremoris
+zOTU_708	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Unclassified_Rikenellaceae	Unclassified_Rikenellaceae
+zOTU_6856	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Unclassified_Porphyromonadaceae	Unclassified_Porphyromonadaceae
+zOTU_120	280.9587937	3.725026397	1.250407069	2.979050973	0.002891427	0.005536775	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flavonifractor	Flavonifractor_plautii
+zOTU_7	11.27196538	-0.49491118	1.619707194	-0.305555956	0.75994276	0.814224385	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto	Clostridium_isatidis
+zOTU_55	138.9142606	10.3331493	1.980415167	5.21766823	1.8119E-07	6.79461E-07	Bacteria	Firmicutes	Unclassified_Firmicutes	Unclassified_Firmicutes	Unclassified_Firmicutes	Unclassified_Firmicutes	Unclassified_Firmicutes
+zOTU_522	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides_goldsteinii
+zOTU_51	300.940453	11.44943248	1.969336768	5.813851985	6.10514E-09	2.89191E-08	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_catenulatum
+zOTU_521	12.07782217	2.483849282	2.287804114	1.085691413	0.277615541	0.324485697	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_onderdonkii
+zOTU_50	1.879853092	5.08997021	3.507091547	1.451336568	0.146686163	NA	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Clostridium_XVIII	Clostridium_ramosum
+zOTU_3270	0	NA	NA	NA	NA	NA	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Enterorhabdus	Unclassified _Enterorhabdus
+zOTU_1641	8.097828703	7.196906943	2.482460053	2.899102821	0.003742321	0.006736179	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_copri
+zOTU_97	327.8999208	-2.265061404	1.730778322	-1.30869527	0.190637595	0.238296993	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_ovatus
+zOTU_9	0.383548174	0.427783072	5.429002772	0.078795884	0.937194978	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_fragilis
+zOTU_800	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_IV	Clostridium_methylpentosum
+zOTU_86	517.1042043	13.19367128	2.080278136	6.342263108	2.26414E-10	1.81269E-09	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	Holdemanella_biformis
+zOTU_354	7.067856444	3.335223188	1.992844266	1.673599511	0.094209335	0.128467275	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_xylanisolvens
+zOTU_13	1253.393295	11.08148549	1.463432155	7.572257759	3.66792758846224e-14	3.30113482961601e-12	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia_luti
+zOTU_5679	2.718914028	-0.262874837	2.718955324	-0.096682294	0.922978701	0.934437965	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Eggerthella	Unclassified _Eggerthella
+zOTU_142	156.1724107	11.46636253	2.096241892	5.469961542	4.50133E-08	1.92914E-07	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Unclassified _Blautia
+zOTU_850	21.6906126	8.618372683	2.233846408	3.858086507	0.000114278	0.000257126	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiracea_incertae_sedis	Unclassified _Lachnospiracea_incertae_sedis
+zOTU_518	0.144604084	1.389540454	5.587351129	0.248693956	0.803597525	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Unclassified_Lactobacillales	Unclassified_Lactobacillales	Unclassified_Lactobacillales
+zOTU_173	12.94694236	6.870713721	2.170410224	3.16562908	0.00154748	0.003027678	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_finegoldii
+zOTU_3278	0.867624504	3.974466734	4.603030411	0.863445682	0.387892472	NA	Bacteria	Proteobacteria	Alphaproteobacteria	Unclassified_Alphaproteobacteria	Unclassified_Alphaproteobacteria	Unclassified_Alphaproteobacteria	Unclassified_Alphaproteobacteria
+zOTU_926	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Unclassified_Bacteroidetes	Unclassified_Bacteroidetes	Unclassified_Bacteroidetes	Unclassified_Bacteroidetes	Unclassified_Bacteroidetes
+zOTU_940	23.88983777	-1.533061169	2.373684096	-0.645857286	0.518371784	0.575968649	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	Oscillibacter_valericigenes
+zOTU_26	1511.54649	14.74116328	2.075715639	7.101725788	1.23208511577195e-12	3.69625534731586e-11	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	Romboutsia_sedimentorum
+zOTU_70	26.54030877	-3.57770046	1.647101434	-2.172119085	0.029846682	0.045528837	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Intestinimonas	Intestinimonas_butyriciproducens
+zOTU_5655	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_acidifaciens
+zOTU_57	1091.622036	9.030472956	1.327159406	6.804361942	1.01498068473871e-11	1.52247E-10	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus_bromii
+zOTU_48	684.1763805	8.977635439	1.44901643	6.195675394	5.80356E-10	3.73086E-09	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea_longicatena
+zOTU_456	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_sartorii
+zOTU_71	4.839989512	1.468268129	2.392115446	0.613794845	0.539350904	0.591970505	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemania	Holdemania_filiformis
+zOTU_1691	12.72515939	7.848985335	2.341165374	3.352597566	0.00080057	0.00163753	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus_eutactus
+zOTU_75	150.5522057	10.44874185	1.97882933	5.280264292	1.28998E-07	5.04774E-07	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Senegalimassilia	Senegalimassilia_anaerobia
+zOTU_24	172.223464	11.60750412	2.094116039	5.542913526	2.9748E-08	1.33866E-07	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_salivarius_subsp._thermophilus
+zOTU_90	269.3974085	12.25295595	2.086641234	5.872095186	4.30322E-09	2.15161E-08	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus2	Ruminococcus_faecis
+zOTU_42	589.1455635	9.432556788	1.443065216	6.536472976	6.29865126008736e-11	8.09827E-10	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Gemmiger	Gemmiger_formicilis
+zOTU_733	16.59633017	-1.963182704	1.578960458	-1.243338738	0.213743035	0.26351881	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae_Sedis_XIII	Mogibacterium	Unclassified _Mogibacterium
+zOTU_5228	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Barnesiella	Barnesiella_intestinihominis
+zOTU_62	437.6709591	3.689021925	1.259560099	2.92881771	0.003402539	0.006249562	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus2	Unclassified _Ruminococcus2
+zOTU_1853	0	NA	NA	NA	NA	NA	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Propionibacteriaceae	Propionibacterium	Propionibacterium_acnes
+zOTU_91	282.411776	12.32101996	2.086029779	5.906444903	3.49569E-09	1.85066E-08	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Catenibacterium	Catenibacterium_mitsuokai
+zOTU_6888	13.33908795	-4.930688801	2.031332028	-2.427318002	0.015210917	0.024017237	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	Oscillibacter_ruminantium
+zOTU_5254	2.96965187	-0.43241349	2.549542105	-0.169604373	0.865321283	0.905568785	Bacteria	Firmicutes	Clostridia	Unclassified_Clostridia	Unclassified_Clostridia	Unclassified_Clostridia	Unclassified_Clostridia
+zOTU_53	619.0026891	7.86027195	1.472946246	5.336428243	9.47954E-08	3.87799E-07	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia_faecis
+zOTU_6140	0.510991133	0.427786985	4.912399693	0.087083098	0.93060546	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenella	Christensenella_minuta
+zOTU_724	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Unclassified_Gammaproteobacteria	Unclassified_Gammaproteobacteria	Unclassified_Gammaproteobacteria	Unclassified_Gammaproteobacteria
+zOTU_181	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Lactobacillus_intestinalis
+zOTU_487	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Unclassified _Enterobacter
+zOTU_1769	0.289208168	2.38951172	5.493444067	0.434975161	0.663580457	NA	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Eggerthella	Eggerthella_sinensis
+zOTU_182	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Kluyvera	Kluyvera_cryocrescens
+zOTU_856	2.024457176	5.196887313	3.426167023	1.516822525	0.129311499	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium_XlVa	Hungatella_hathewayi
+zOTU_11	0.578416336	3.389485976	5.395010388	0.628263105	0.529831597	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Lactobacillus_paracasei_subsp._tolerans
+zOTU_59	1.012228588	4.196865342	4.344472312	0.966024189	0.334032077	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Lactobacillus_vaginalis
+zOTU_4809	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Unclassified _Staphylococcus
+zOTU_178	157.0890507	5.004213432	1.320281784	3.790261665	0.000150489	0.000330341	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_uniformis
+zOTU_2940	0.433812252	2.974457599	5.461782457	0.544594667	0.586032323	NA	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella_wadsworthensis
+zOTU_29	86.8218856	6.999715703	1.485032874	4.713508923	2.43487E-06	6.89356E-06	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_bifidum
+zOTU_534	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Clostridium_XVIII	Clostridium_cocleatum
+zOTU_939	2.439306459	0.377384885	2.617974575	0.144151471	0.885380862	0.915911236	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila_wadsworthia
+zOTU_39	612.5428997	13.43802614	2.079198346	6.463080427	1.02593E-10	1.04741E-09	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_longum_subsp._longum
+zOTU_213	80.75250907	8.15236931	1.729952947	4.712480373	2.4472E-06	6.89356E-06	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Unclassified_Coriobacteriaceae	Unclassified_Coriobacteriaceae
+zOTU_253	36.71255047	-2.751213558	1.843062288	-1.492740411	0.135505151	0.171767093	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_intestinalis
+zOTU_4889	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Unclassified _Desulfovibrio
+zOTU_23	3.216156486	-1.728733847	2.256445302	-0.76613151	0.443598056	0.499047813	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella_pneumoniae_subsp._ozaenae
+zOTU_1918	8.920947811	3.277129522	1.711447257	1.914829398	0.055514264	0.079306091	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides_distasonis
+zOTU_341	0.289208168	2.38951172	5.493444067	0.434975161	0.663580457	NA	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Unclassified _Sutterella
+zOTU_45	0.366387049	-2.014832796	5.770575982	-0.349156272	0.726971993	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter_mori
+zOTU_61	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto	Clostridium_thiosulfatireducens
+zOTU_1649	4.048914351	6.19690048	2.835191788	2.185707685	0.028836998	0.044747066	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Clostridium_XI	Clostridium_hiranonis
+zOTU_18	599.8589385	-1.220700064	1.263714063	-0.965962238	0.334063077	0.385457397	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Unclassified _Bacteroides
+zOTU_886	8.387036871	7.247533208	2.469392314	2.934946046	0.003336057	0.006249562	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Slackia	Slackia_isoflavoniconvertens
+zOTU_4586	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Barnesiella	Unclassified _Barnesiella
+zOTU_116	7.800915764	-3.118869965	2.009768109	-1.551855635	0.12069677	0.159745725	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Unclassified_Enterobacteriaceae	Unclassified_Enterobacteriaceae
+zOTU_1962	18.78454796	-7.882263332	3.069031886	-2.568322398	0.010219206	0.017353369	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	Unclassified _Erysipelothrix
+zOTU_5671	2.488749761	-0.657559016	2.611973534	-0.251747963	0.801235882	0.848367404	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Butyricimonas	Unclassified _Butyricimonas
+zOTU_80	12.15649673	5.695328808	2.216741958	2.569234	0.010192361	0.017353369	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Unclassified _Streptococcus
+zOTU_130	199.6920518	9.540626642	1.91305408	4.987118107	6.12866E-07	2.04289E-06	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Unclassified _Alistipes
+zOTU_2144	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Unclassified_Bacteroidales	Unclassified_Bacteroidales	Unclassified_Bacteroidales
+zOTU_56	708.8685739	12.68631995	1.963843451	6.459944626	1.04741E-10	1.04741E-09	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiracea_incertae_sedis	Eubacterium_hallii
+zOTU_111	524.9512316	4.596654392	1.641765635	2.799823735	0.005113052	0.009023033	Bacteria	Unclassified_Bacteria	Unclassified_Bacteria	Unclassified_Bacteria	Unclassified_Bacteria	Unclassified_Bacteria	Unclassified_Bacteria
+zOTU_37	2.575529241	-0.212433339	2.228476369	-0.095326718	0.924055321	0.934437965	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter_asburiae
+zOTU_3408	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_IV	Clostridium_viride
+zOTU_1783	0.289208168	2.38951172	5.493444067	0.434975161	0.663580457	NA	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_incertae_sedis	Eubacterium_tortuosum
+zOTU_2	43.56025108	-1.252607897	1.474883791	-0.849292605	0.395718495	0.450818539	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia/Shigella	Unclassified _Escherichia/Shigella
+zOTU_337	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum	Lachnoanaerobaculum_umeaense
+zOTU_927	14.73187289	4.587734712	1.818180833	2.523255459	0.01162739	0.019378983	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides_merdae
+zOTU_2732	1.519224725	-4.2416402	3.352281989	-1.265299344	0.205764042	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_III	Unclassified _Clostridium_III
+zOTU_779	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Lactobacillus_hamsteri
+zOTU_101	3.76829477	-3.085396611	2.729441754	-1.130413062	0.258302213	0.305884199	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella_enterica_subsp._diarizonae
+zOTU_1447	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium_XlVb	Unclassified _Clostridium_XlVb
+zOTU_5669	2.837240059	-5.174470762	3.379025948	-1.531349816	0.12568296	0.163934296	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_harei
+zOTU_4595	2.475001086	-4.970053429	3.105925687	-1.60018427	0.109557711	0.147167074	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_nordii
+zOTU_87	376.9828469	12.73771695	2.082852241	6.11551636	9.62448E-10	5.41377E-09	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Lactobacillus_ruminis
+zOTU_8	4.71407201	-3.389826336	2.242118091	-1.511885725	0.130562936	0.167866632	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Unclassified _Klebsiella
+zOTU_69	2850.733029	8.058552512	1.304394648	6.178001822	6.4918E-10	3.89508E-09	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Unclassified_Lachnospiraceae	Unclassified_Lachnospiraceae
+zOTU_661	23.57046569	8.738282062	2.221408256	3.933667771	8.36594E-05	0.000198141	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiracea_incertae_sedis	Eubacterium_ventriosum
+zOTU_420	61.95438409	-9.60141215	2.931842765	-3.274872809	0.001057096	0.002114191	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_gorbachii
+zOTU_167	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_stercorirosoris
+zOTU_6164	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	Alloprevotella_rava
+zOTU_6913	0.433812252	2.974457599	5.461782457	0.544594667	0.586032323	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_III	Clostridium_straminisolvens
+zOTU_2017	16.19565741	8.196908956	2.286092178	3.585554876	0.000336362	0.000720776	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira	Lachnospira_multipara
+zOTU_3860	0	NA	NA	NA	NA	NA	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Enterorhabdus	Enterorhabdus_mucosicola
+zOTU_480	22.5582371	8.674956175	2.227855695	3.893859102	9.8662E-05	0.000227681	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Stomatobaculum	Stomatobaculum_longum
+zOTU_3167	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_oleiciplenus
+zOTU_31	1305.341066	14.52956563	2.076090724	6.998521529	2.58677616950209e-12	5.82024638137971e-11	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_angulatum
+zOTU_25	3.981489149	5.071624758	2.56878242	1.974330219	0.048344207	0.070177075	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Unclassified _Enterococcus
+zOTU_3032	0.308562446	-2.014832796	5.770575982	-0.349156272	0.726971993	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_faecichinchillae
+zOTU_63	4.526802532	4.511179373	2.499034864	1.805168643	0.071048296	0.099911667	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Unclassified_Enterococcaceae	Unclassified_Enterococcaceae
+zOTU_128	231.3821319	8.193147348	1.74841724	4.686036697	2.78546E-06	7.59672E-06	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium_desmolans
+zOTU_76	509.8740001	13.1733571	2.080376388	6.332198911	2.41692E-10	1.81269E-09	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Unclassified_Erysipelotrichaceae	Unclassified_Erysipelotrichaceae
+zOTU_1068	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Kluyvera	Kluyvera_ascorbata
+zOTU_16	507.5611246	9.203410236	1.843527055	4.992283791	5.96695E-07	2.04289E-06	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto	Unclassified _Clostridium_sensu_stricto
+zOTU_3703	0.144604084	1.389540454	5.587351129	0.248693956	0.803597525	NA	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_incertae_sedis	Unclassified _Erysipelotrichaceae_incertae_sedis
+zOTU_83	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Lactobacillus_animalis
+zOTU_2009	0.433812252	2.974457599	5.461782457	0.544594667	0.586032323	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerofilum	Anaerofilum_pentosovorans
+zOTU_5236	0	NA	NA	NA	NA	NA	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Marvinbryantia	Marvinbryantia_formatexigens
+zOTU_563	0	NA	NA	NA	NA	NA	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	Mucispirillum_schaedleri
+zOTU_1471	0.289208168	2.38951172	5.493444067	0.434975161	0.663580457	NA	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Parvibacter	Parvibacter_caecicola
+zOTU_3691	0.144604084	1.389540454	5.587351129	0.248693956	0.803597525	NA	Bacteria	Candidatus_Saccharibacteria	g__Saccharibacteria_genera_incertae_sedis	Unclassified_g__Saccharibacteria_genera_incertae_sedis	Unclassified_g__Saccharibacteria_genera_incertae_sedis	Unclassified_g__Saccharibacteria_genera_incertae_sedis	Unclassified_g__Saccharibacteria_genera_incertae_sedis
+zOTU_119	142.1883269	7.14676443	1.504915452	4.748947472	2.04478E-06	6.34587E-06	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea_formicigenerans
+zOTU_6	0.289208168	2.38951172	5.493444067	0.434975161	0.663580457	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Lactobacillus_johnsonii
+zOTU_67	486.8819508	13.10678861	2.080708195	6.299195941	2.99194E-10	2.07134E-09	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Fusicatenibacter	Fusicatenibacter_saccharivorans
+zOTU_89	1175.742046	3.055707094	1.214762889	2.515476165	0.011887171	0.019451735	Bacteria	Firmicutes	Clostridia	Clostridiales	Unclassified_Clostridiales	Unclassified_Clostridiales	Unclassified_Clostridiales
+zOTU_4	1816.526787	5.458831737	1.242051929	4.395010878	1.10767E-05	2.93207E-05	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium_prausnitzii
+zOTU_58	0	NA	NA	NA	NA	NA	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella_oxytoca
+zOTU_2468	11.65302797	1.86496776	1.577326379	1.18236009	0.237062852	0.288319685	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	Unclassified _Oscillibacter
+zOTU_14	2484.053031	13.73056107	1.924150619	7.13590762	9.61505727481917e-13	3.69625534731586e-11	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Unclassified _Bifidobacterium
+zOTU_695	1.44604084	4.711451014	3.825220428	1.231680919	0.2180683	NA	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	lactobacilli	Unclassified _Lactobacillus
+zOTU_174	511.1251356	2.128023695	1.201850596	1.77062249	0.076623499	0.106094076	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Unclassified_Ruminococcaceae	Unclassified_Ruminococcaceae
+zOTU_1671	0	NA	NA	NA	NA	NA	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Odoribacter	Unclassified _Odoribacter
+zOTU_745	14.22307491	4.481337864	1.812308226	2.4727239	0.013408769	0.021549807	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Olsenella	Olsenella_scatoligenes
